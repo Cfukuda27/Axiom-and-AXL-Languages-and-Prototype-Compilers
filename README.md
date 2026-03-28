@@ -1,0 +1,2 @@
+-Axiom is my attempt at a memory safe high level systems language which compiles to llvm ir for now with future plans to compile directly to AXL when a new official compiler comes.
+-AXL is my attempt at a universal memory safe assembly language with a fixed syntax but with a reprogramable backend tailored to any architecture from 8 bit to 64 bit.
